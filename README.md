@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityadandekar28/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityadandekar28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityadandekar28/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityadandekar28/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
