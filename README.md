@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adityadandekar28/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityadandekar28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Adityadandekar28/DSA/tree/master/0014-longest-common-prefix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adityadandekar28/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adityadandekar28/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
