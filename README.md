@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityadandekar28/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityadandekar28/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Adityadandekar28/DSA/tree/master/0234-palindrome-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adityadandekar28/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityadandekar28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Adityadandekar28/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityadandekar28/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
