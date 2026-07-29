@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Adityadandekar28/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Adityadandekar28/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityadandekar28/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityadandekar28/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adityadandekar28/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityadandekar28/DSA/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -119,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Adityadandekar28/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityadandekar28/DSA/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
