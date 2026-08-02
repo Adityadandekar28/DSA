@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Adityadandekar28/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Adityadandekar28/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Adityadandekar28/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Adityadandekar28/DSA/tree/master/0392-is-subsequence) |
