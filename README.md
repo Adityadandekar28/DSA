@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityadandekar28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Adityadandekar28/DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
