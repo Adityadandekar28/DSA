@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityadandekar28/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityadandekar28/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityadandekar28/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Adityadandekar28/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityadandekar28/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Adityadandekar28/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityadandekar28/DSA/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adityadandekar28/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityadandekar28/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Adityadandekar28/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Adityadandekar28/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adityadandekar28/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Adityadandekar28/DSA/tree/master/1683-invalid-tweets) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
