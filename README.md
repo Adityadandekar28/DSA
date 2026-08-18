@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adityadandekar28/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityadandekar28/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
+| [1563-stone-game-v](https://github.com/Adityadandekar28/DSA/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Adityadandekar28/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Adityadandekar28/DSA/tree/master/1563-stone-game-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Adityadandekar28/DSA/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Adityadandekar28/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
+| [1563-stone-game-v](https://github.com/Adityadandekar28/DSA/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Adityadandekar28/DSA/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
