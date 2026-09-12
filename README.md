@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/Adityadandekar28/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityadandekar28/DSA/tree/master/0485-max-consecutive-ones) |
@@ -244,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Adityadandekar28/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
