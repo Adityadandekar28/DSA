@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Adityadandekar28/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Adityadandekar28/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityadandekar28/DSA/tree/master/0485-max-consecutive-ones) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityadandekar28/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Adityadandekar28/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityadandekar28/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
