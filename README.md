@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adityadandekar28/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Adityadandekar28/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityadandekar28/DSA/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Adityadandekar28/DSA/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/Adityadandekar28/DSA/tree/master/1563-stone-game-v) |
 ## Array
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityadandekar28/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityadandekar28/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityadandekar28/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityadandekar28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityadandekar28/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Adityadandekar28/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Adityadandekar28/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Adityadandekar28/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Adityadandekar28/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityadandekar28/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityadandekar28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Adityadandekar28/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityadandekar28/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Adityadandekar28/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Adityadandekar28/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
